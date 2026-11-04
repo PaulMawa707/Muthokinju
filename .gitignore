@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+build/
+dist/
+coverage/
+.vercel
+.DS_Store
+*.log
+*.tsbuildinfo
+next-env.d.ts
+.env*
+!.env.example
+# User guides contain screenshots of customer data; they are shared from OneDrive
+/docs/*.docx
+~$*
